@@ -1,0 +1,7 @@
+cvzone
+numpy
+opencv_contrib_python
+tensorflow
+opencv_python
+Pillow==10.4.0
+playsound==1.3.0
