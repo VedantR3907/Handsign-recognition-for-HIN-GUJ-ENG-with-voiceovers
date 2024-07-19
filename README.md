@@ -1,4 +1,4 @@
-# Interactive Python Games
+# Handsign Recognition for Hindi Gujarati and English with VoiceOvers
 
 This project features a trained model utilizing computer vision to detect hand signs representing English alphabets, Hindi varnmala, and numbers. Each prediction is accompanied by a voiceover that announces the identified character or number.
 
