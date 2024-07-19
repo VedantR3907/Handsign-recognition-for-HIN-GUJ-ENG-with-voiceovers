@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=4Xgwo9dR1k4&t=3s
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/VedantR3907/Handsign-recognition-for-HIN-GUJ-ENG-with-voiceovers.git)
+   git clone https://github.com/VedantR3907/Handsign-recognition-for-HIN-GUJ-ENG-with-voiceovers.git
    ```
 
 ## Usage
