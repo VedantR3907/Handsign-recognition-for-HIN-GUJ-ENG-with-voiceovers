@@ -1,6 +1,6 @@
 # Interactive Python Games
 
-This project includes a collection of games that utilize User and computer to enhance the gaming experience.
+This project features a trained model utilizing computer vision to detect hand signs representing English alphabets, Hindi varnmala, and numbers. Each prediction is accompanied by a voiceover that announces the identified character or number.
 
 ## Reference Video
 ```
@@ -20,6 +20,23 @@ https://www.youtube.com/watch?v=4Xgwo9dR1k4&t=3s
 2. Install requirements.txt
 ```
 pip install -r requirements.txt
+```
+
+## Dataset
+
+1. Hindi Dataset
+```
+https://www.kaggle.com/datasets/vedantrajpurohit/hindi-varnmala-hand-signs-dataset
+```
+
+2. English Dataset
+```
+https://www.kaggle.com/datasets/vedantrajpurohit/american-sign-language-dataset
+```
+
+3. Numbers Dataset
+```
+https://www.kaggle.com/datasets/vedantrajpurohit/numers-hand-sign-dataset
 ```
 
 ## Usage
